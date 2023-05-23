@@ -1,0 +1,1 @@
+This is a test project that is intended to read a csv file type, parse the information, analyze the email addresses listed in the file, store the emails in two seperate lists for invalid and valid emails, and then output the two lists.

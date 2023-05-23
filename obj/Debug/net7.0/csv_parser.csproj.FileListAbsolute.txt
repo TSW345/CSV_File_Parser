@@ -1,0 +1,15 @@
+C:\Users\Aidan\csv_parser\bin\Debug\net7.0\csv_parser.exe
+C:\Users\Aidan\csv_parser\bin\Debug\net7.0\csv_parser.deps.json
+C:\Users\Aidan\csv_parser\bin\Debug\net7.0\csv_parser.runtimeconfig.json
+C:\Users\Aidan\csv_parser\bin\Debug\net7.0\csv_parser.dll
+C:\Users\Aidan\csv_parser\bin\Debug\net7.0\csv_parser.pdb
+C:\Users\Aidan\csv_parser\obj\Debug\net7.0\csv_parser.csproj.AssemblyReference.cache
+C:\Users\Aidan\csv_parser\obj\Debug\net7.0\csv_parser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aidan\csv_parser\obj\Debug\net7.0\csv_parser.AssemblyInfoInputs.cache
+C:\Users\Aidan\csv_parser\obj\Debug\net7.0\csv_parser.AssemblyInfo.cs
+C:\Users\Aidan\csv_parser\obj\Debug\net7.0\csv_parser.csproj.CoreCompileInputs.cache
+C:\Users\Aidan\csv_parser\obj\Debug\net7.0\csv_parser.dll
+C:\Users\Aidan\csv_parser\obj\Debug\net7.0\refint\csv_parser.dll
+C:\Users\Aidan\csv_parser\obj\Debug\net7.0\csv_parser.pdb
+C:\Users\Aidan\csv_parser\obj\Debug\net7.0\csv_parser.genruntimeconfig.cache
+C:\Users\Aidan\csv_parser\obj\Debug\net7.0\ref\csv_parser.dll
